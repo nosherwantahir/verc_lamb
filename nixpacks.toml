@@ -1,0 +1,2 @@
+[phases.setup]
+nixPkgs = ["python311", "gcc", "python311Packages.setuptools", "python311Packages.distutils-extra"]
